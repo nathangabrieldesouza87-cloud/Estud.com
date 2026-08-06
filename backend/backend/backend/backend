@@ -1,0 +1,10 @@
+backend/
+│
+├── ai/
+│   ├── engine.py
+│   ├── classifier.py
+│   ├── personality.py
+│   ├── prompt_builder.py
+│   ├── lesson_engine.py
+│   ├── exercise_engine.py
+│   └── memory.py
